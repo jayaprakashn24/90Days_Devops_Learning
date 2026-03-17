@@ -4,14 +4,6 @@
 The goal of Day 01 is to set a strong foundation for my DevOps journey by creating a clear and realistic **90-day execution plan**.  
 This plan defines my understanding, motivation, goals, and consistency strategy for becoming a DevOps Engineer.
 
----
-
-##  Current Level
-- **Student (Final Year)**  
-- Beginner in DevOps, with basic awareness of Linux, Git, Docker, and Cloud concepts  
-- Actively learning and transitioning toward a DevOps & Cloud role
-
----
 
 ##  My Understanding of DevOps & Cloud
 DevOps is a culture and set of practices that focus on collaboration between development and operations teams to deliver software faster, reliably, and at scale.  

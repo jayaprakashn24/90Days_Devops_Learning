@@ -50,4 +50,3 @@ Focus will be on:
 
 ---
 
-**Commitment over perfection. Consistency over motivation.**

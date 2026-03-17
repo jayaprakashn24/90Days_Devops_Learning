@@ -1,6 +1,3 @@
-Here is your corrected and clean version (proper formatting, no unnecessary symbols, professional tone):
-
----
 
 # Day 01 – Introduction to DevOps and Cloud
 

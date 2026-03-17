@@ -1,6 +1,6 @@
 # 90Days_Devops_Learning
 
-Welcome to 90DaysOfDevOps, a structured and hands-on DevOps challenge by Jayapraksh.
+Welcome to 90DaysOfDevOps, a structured and hands-on DevOps challenge by Jayaprakash.
 
 This repository is designed to help you build real DevOps skills step by step in 90 days—not by watching endless videos, but by consistently doing daily tasks, building projects, and developing the mindset of a production-ready DevOps engineer.
 
